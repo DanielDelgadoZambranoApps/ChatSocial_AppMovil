@@ -1,0 +1,6 @@
+module Pods_MessagesCCU_MessagesCCUTests {
+  umbrella header "Pods-MessagesCCU-MessagesCCUTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

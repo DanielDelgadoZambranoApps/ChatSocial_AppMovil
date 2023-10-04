@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001406272379",
+    "project_id": "messagesccu",
+    "storage_bucket": "messagesccu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001406272379:android:d8398fc6ba6f072f1ba3de",
+        "android_client_info": {
+          "package_name": "com.messagesccu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001406272379-qhk6oq9ubcl01etrlivk4l1rpfva1n9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl0rJK3bq8lNYtxOQktPyONRB-QA-Cfuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001406272379-qhk6oq9ubcl01etrlivk4l1rpfva1n9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
